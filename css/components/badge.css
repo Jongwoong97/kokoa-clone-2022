@@ -1,0 +1,24 @@
+.badge-red {
+  background-color: tomato;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+  color: white;
+  font-weight: 600;
+}
+
+.badge-grey {
+  background-color: #48505D;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+}
